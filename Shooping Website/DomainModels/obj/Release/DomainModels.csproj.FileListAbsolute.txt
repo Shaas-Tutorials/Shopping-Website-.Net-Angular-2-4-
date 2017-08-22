@@ -1,0 +1,11 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\DomainModels.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\DomainModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\DomainModels.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\Newtonsoft.Json.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\bin\Release\Newtonsoft.Json.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\obj\Release\DomainModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\Project_7AM_MWF\DomainModels\obj\Release\DomainModels.pdb
